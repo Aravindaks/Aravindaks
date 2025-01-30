@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aravindaks
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning Java Full stack development course.
-- 💞️ I’m looking to collaborate on teams to work in projects.
+- 🌱 I have knowledge on Java Full stack development.
+- 💞️ I’m currently working as an Intern at PeopleTech Group Inc.
 
 <!---
 Aravindaks/Aravindaks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
